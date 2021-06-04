@@ -1,0 +1,9 @@
+# IDE settings
+.idea
+
+# pictures
+img/*.png
+img/*.jpg
+
+# secret credentials
+.env
